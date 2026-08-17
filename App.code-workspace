@@ -4,5 +4,8 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"scm.repositories.explorer": true,
+		"git.branchPrefix": "main"
+	}
 }

@@ -1,0 +1,4 @@
+{
+    "git.branchPrefix": "main",
+    "scm.repositories.explorer": true
+}
